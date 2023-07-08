@@ -17,6 +17,11 @@ Action Logger is a simple project demonstrating a web server built using Go, whi
    ```bash
    cd action-logger
 
+4. Install the dependencies:
+   
+   ```bash
+   go mod download
+
 4. Running the server:
 From the root directory of the project, run:
 
