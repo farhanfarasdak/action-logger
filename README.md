@@ -22,9 +22,3 @@ From the root directory of the project, run:
 
    ```bash
    go run ./cmd/action-logger
-
-
-
-
-
-
